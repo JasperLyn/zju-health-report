@@ -18,7 +18,7 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN
           - username: ZJU_USERNAME_ZHOUSu #Su ZHOU
             password: ZJU_PASSWORD_ZHOUSu
-            dingtalk_token: DINGTALK_TOKEN
+            dingtalk_token: DINGTALK_TOKEN_ZHOUSU
             
     steps:
       - name: 打卡
