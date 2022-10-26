@@ -25,6 +25,9 @@ jobs:
           - username: ZJU_USERNAME_Lizehao #Zehao LI
             password: ZJU_PASSWORD_Lizehao
             dingtalk_token: DINGTALK_TOKEN        
+          - username: ZJU_USERNAME_CHENYIQING #Yiqing CHEN
+            password: ZJU_PASSWORD_CHENYIQING
+            dingtalk_token: DINGTALK_TOKEN 
     steps:
       - name: 打卡
         uses: zju-health-report/action@release
